@@ -1,0 +1,1 @@
+{"version":3,"sources":["about.less"],"names":[],"mappings":"AACA,aAEQ,UAAA,KACA,MAAA,QACA,YAAA,KACA,WAAA","file":"about.css","sourcesContent":["//less样式测试\r\n.top{\r\n    .topp-p{\r\n        font-size: 20px;\r\n        color: crimson;\r\n        line-height: 30px;\r\n        text-align: center;\r\n    }\r\n}"]}
